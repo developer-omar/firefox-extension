@@ -4,13 +4,14 @@ This template contains the following technologies:
 
 1. pnpm
 2. Webpack 5
-3. React 18
-4. Typescript
-5. SASS
+3. Babel
+4. React 18
+5. Typescript
+6. SASS
 
 ## Settings
 
-Change the value of `const extensionName` to the name of its extension, to create a directory with the same name, by default the value is `example-extension`
+Change the value of `const extensionName` in `webpack.config.js` to the name of its extension, to create a directory with the same name, by default the value is `example-extension`
 
 ## Installation
 
