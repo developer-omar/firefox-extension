@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "Firefox Extension",
+    "description": "Firefox Extension Name"
+  },
+  "extensionDescription": {
+    "message": "Example of Extension",
+    "description": "Description of the extension."
+  }
+}

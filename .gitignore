@@ -1,0 +1,6 @@
+example-extension
+node_modules
+
+#Editor directories and files
+.idea
+.vscode/*
